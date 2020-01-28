@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access/>
+        <actions_access>true</actions_access>
+        <alter_access>true</alter_access>
+        <caller_access/>
+        <client_scripts_access>true</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>true</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>true</is_extendable>
+        <label>My table</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_449571_vineet_te_my_table</name>
+        <number_ref display_value="MYT">96591236db2200100826bd5139961947</number_ref>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-28 17:48:41</sys_created_on>
+        <sys_id>0659def2db2200100826bd513996196f</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>My table</sys_name>
+        <sys_package display_value="vineet_test" source="x_449571_vineet_te">23b8dab2db2200100826bd51399619d5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="vineet_test">23b8dab2db2200100826bd51399619d5</sys_scope>
+        <sys_update_name>sys_db_object_0659def2db2200100826bd513996196f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-28 17:48:42</sys_updated_on>
+        <update_access>true</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>

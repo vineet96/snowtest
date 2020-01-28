@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="cmn_timeline_page">
+    <cmn_timeline_page action="INSERT_OR_UPDATE">
+        <allow_drag_left>false</allow_drag_left>
+        <allow_drag_right>false</allow_drag_right>
+        <allow_dragging>false</allow_dragging>
+        <auto_refresh>0</auto_refresh>
+        <condition/>
+        <css_span_color/>
+        <end_date_field>work_end</end_date_field>
+        <labels>number</labels>
+        <name>x_449571_vineet_te.gg</name>
+        <perform_custom_sort>false</perform_custom_sort>
+        <range_calculator/>
+        <show_grid_lines>true</show_grid_lines>
+        <show_left_pane>false</show_left_pane>
+        <show_span_text>true</show_span_text>
+        <show_summary_pane>true</show_summary_pane>
+        <show_tooltips>true</show_tooltips>
+        <sort_by>active</sort_by>
+        <sort_by_order>ASC</sort_by_order>
+        <start_date_field>work_end</start_date_field>
+        <suffix>gg</suffix>
+        <sys_class_name>cmn_timeline_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-28 17:58:28</sys_created_on>
+        <sys_id>3e8b52b6db2200100826bd51399619e4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_449571_vineet_te.gg</sys_name>
+        <sys_package display_value="vineet_test" source="x_449571_vineet_te">23b8dab2db2200100826bd51399619d5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="vineet_test">23b8dab2db2200100826bd51399619d5</sys_scope>
+        <sys_update_name>cmn_timeline_page_3e8b52b6db2200100826bd51399619e4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-28 17:58:28</sys_updated_on>
+        <table>task</table>
+        <tooltip_label>number,short_description</tooltip_label>
+    </cmn_timeline_page>
+</record_update>
